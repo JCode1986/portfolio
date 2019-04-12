@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/JCode1986/portfolio/issues"
   },
-  "homepage": "https://github.com/JCode1986/portfolio#readme"
+  "homepage": "https://github.com/JCode1986/portfolio#readme",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4"
+  }
 }
