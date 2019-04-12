@@ -1,0 +1,20 @@
+{
+  "name": "portfolio",
+  "version": "0.0.1",
+  "description": "portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JCode1986/portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JCode1986/portfolio/issues"
+  },
+  "homepage": "https://github.com/JCode1986/portfolio#readme"
+}
