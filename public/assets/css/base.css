@@ -153,3 +153,7 @@ blockquote {
 p, ul, ol, dl, table {
   margin-bottom: 2em;
 }
+
+#header .icons a:hover {
+  color: #fff;
+}
