@@ -1639,15 +1639,16 @@ border-bottom-color: rgba(255, 255, 255, 0);
 padding: 10em 0;
 background-size: cover;
 background-position: center center;
-background-image: url("images/code.png");
 }
 
 #main > section.one {
 background-color: #81918E;
+background-image: url("images/test.png")
+
 }
 
 #main > section.two {
-background-color: #f5fafa;
+background-color: lightcyan;
 }
 
 #main > section.three {
