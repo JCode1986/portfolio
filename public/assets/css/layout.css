@@ -136,12 +136,14 @@ margin-bottom: 3em;
 .image {
 display: inline-block;
 border: 0;
+flex-wrap: wrap-reverse;
 }
 
 .image img {
 display: block;
 width: 100%;
 }
+
 ul {
 list-style: disc;
 padding-left: 1em;
